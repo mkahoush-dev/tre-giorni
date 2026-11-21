@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@theme {
+  --color-night: #0d1b2a;
+  --color-night-2: #112236;
+  --color-night-3: #16283b;
+  --color-night-4: #1f3650;
+  --color-rule: rgb(242 242 236 / 0.14);
+  --color-paper: #f2f2ec;
+  --color-paper-dim: rgb(242 242 236 / 0.72);
+  --color-paper-faint: rgb(242 242 236 / 0.5);
+  --color-signal: #f4c430;
+  --color-signal-soft: rgb(244 196 48 / 0.14);
+  --color-go: #2e7d5b;
+  --color-stop: #c8102e;
+  --color-stop-soft: rgb(200 16 46 / 0.18);
+
+  --font-sans: var(--font-barlow), system-ui, sans-serif;
+  --font-board: var(--font-barlow-condensed), var(--font-barlow), system-ui, sans-serif;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+html {
+  background: var(--color-night);
+  color: var(--color-paper);
+  color-scheme: dark;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-feature-settings: "tnum" 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-signal);
+  color: var(--color-night);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-signal);
+  outline-offset: 2px;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-night-4) transparent;
+  caret-color: var(--color-signal);
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+/* Column heads, times and labels: the departure-board voice. */
+.board-label {
+  font-family: var(--font-board);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* A changed row holds the signal colour until the user has seen it. */
+@keyframes settle {
+  from {
+    background-color: rgb(244 196 48 / 0.32);
+  }
+}
+.row-changed {
+  background-color: var(--color-signal-soft);
+}
+.row-settle {
+  animation: settle 900ms var(--ease-out-expo);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .row-settle {
+    animation: none;
+  }
+}
+
+/* Leaflet: theme its chrome from the palette. */
+/* Doubled class so it beats leaflet.css, which loads after this file. */
+.leaflet-container.leaflet-container {
+  background: var(--color-night-2);
+  font-family: var(--font-sans);
+}
+.map-tiles {
+  filter: invert(1) hue-rotate(180deg) brightness(0.82) contrast(0.92) saturate(0.35);
+}
+.leaflet-control-attribution {
+  background: rgb(13 27 42 / 0.8) !important;
+  color: var(--color-paper-faint) !important;
+}
+.leaflet-control-attribution a {
+  color: var(--color-paper-dim) !important;
+}
+.leaflet-bar a {
+  background: var(--color-night-3) !important;
+  color: var(--color-paper) !important;
+  border-color: var(--color-rule) !important;
+}
+
+/* Calendar icon: with color-scheme: dark the browser already draws it light.
+   No invert (that turns it dark); brighten it to full white instead. */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: brightness(0) invert(1);
+  opacity: 1;
+  cursor: pointer;
+}

@@ -1,0 +1,8758 @@
+[
+  {
+    "id": "place_001",
+    "name": "Colosseum",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Celio",
+    "description": "The most iconic structure in Rome — go early morning or book the evening experience to avoid the worst of the crowds. The underground and arena floor access is worth the premium ticket.",
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "iconic",
+      "historic",
+      "tourist-heavy",
+      "cultural"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Summer queues can be brutal — pre-book online always."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_002",
+    "name": "Trastevere Neighborhood",
+    "type": "neighborhood",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trastevere",
+    "description": "Rome's most atmospheric quarter — cobblestones, ivy-covered walls, and the best evening energy in the city. Come at dusk and stay for dinner.",
+    "lat": 41.8893,
+    "lng": 12.4706,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 180,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "romantic",
+      "evening",
+      "local-favorite",
+      "scenic",
+      "food"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_003",
+    "name": "Da Enzo al 29",
+    "type": "restaurant",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trastevere",
+    "description": "Skip the tourist menus on the main drag — this place two streets back does cacio e pepe and coda alla vaccinara that will ruin you for lesser Roman food. Tiny, no-frills, perfect.",
+    "lat": 41.8875,
+    "lng": 12.472,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "tue": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 12:30-14:30, 19:30-22:30"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "food",
+      "local-favorite",
+      "hidden-gem",
+      "cultural"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_004",
+    "name": "Roman Forum",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Celio",
+    "description": "Combine with the Colosseum on the same ticket — the Forum is where the city actually happened, and walking through it in the quiet early morning feels genuinely ancient.",
+    "lat": 41.8925,
+    "lng": 12.4853,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "historic",
+      "iconic",
+      "cultural",
+      "morning"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_005",
+    "name": "Pantheon",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Pigna",
+    "description": "Two thousand years old and still the best-preserved ancient building on earth. The oculus is genuinely jaw-dropping. Now requires a ticket, which has thinned the crowds slightly.",
+    "lat": 41.8986,
+    "lng": 12.4769,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:00"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.8,
+    "tags": [
+      "iconic",
+      "historic",
+      "cultural",
+      "tourist-heavy"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_006",
+    "name": "Campo de' Fiori Market",
+    "type": "market",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Parione",
+    "description": "A lively morning market selling flowers, produce, and street food in one of Rome's most photogenic piazzas. By afternoon it clears out and becomes a bar scene. Go before 11am.",
+    "lat": 41.8955,
+    "lng": 12.4722,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ],
+        "tue": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ],
+        "wed": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ],
+        "thu": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ],
+        "fri": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ],
+        "sat": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ],
+        "sun": [
+          {
+            "open": 420,
+            "close": 780
+          }
+        ]
+      },
+      "confidence": "inferred",
+      "raw": "Morning only"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.2,
+    "tags": [
+      "market",
+      "morning",
+      "food",
+      "photogenic",
+      "local-favorite"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_007",
+    "name": "Borghese Gallery",
+    "type": "museum",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Parioli",
+    "description": "Rome's most underrated museum — Bernini sculptures and Caravaggio paintings in a villa with a strict 2-hour limit that actually makes the visit better. Booking months ahead is real.",
+    "lat": 41.9143,
+    "lng": 12.4924,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 9:00-19:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.9,
+    "tags": [
+      "art",
+      "cultural",
+      "rainy-day",
+      "iconic",
+      "splurge"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_008",
+    "name": "Piazza Navona",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Parione",
+    "description": "The grandest baroque square in Rome — Bernini's Fountain of the Four Rivers is its centerpiece. Touristy but beautiful, especially at night when it's lit up and the gelato places are still open.",
+    "lat": 41.8992,
+    "lng": 12.4731,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "historic",
+      "photogenic",
+      "tourist-heavy",
+      "evening",
+      "scenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_009",
+    "name": "Osteria Fernanda",
+    "type": "restaurant",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trastevere",
+    "description": "A modern Roman kitchen that does the classics justice while experimenting just enough to be interesting. The carbonara is textbook; the wine list is better than you'd expect at this price.",
+    "lat": 41.8848,
+    "lng": 12.474,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sun": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 19:30-22:30"
+    },
+    "duration": {
+      "minutes": 100,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.5,
+    "tags": [
+      "food",
+      "romantic",
+      "evening",
+      "local-favorite"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_010",
+    "name": "Vatican Museums",
+    "type": "museum",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Borgo",
+    "description": "One of the world's great museum experiences — the Sistine Chapel alone justifies the visit, but the Egyptian antiquities and Gallery of Maps are stunning. Go the moment they open or you'll spend an hour in entrance queues.",
+    "lat": 41.9065,
+    "lng": 12.4536,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 9:00-18:00"
+    },
+    "duration": {
+      "minutes": 240,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "iconic",
+      "art",
+      "cultural",
+      "tourist-heavy",
+      "rainy-day"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Closed Sundays except last Sunday of the month (free entry, massive crowds)."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_011",
+    "name": "Gelato at Giolitti",
+    "type": "cafe",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Pigna",
+    "description": "Rome's oldest gelato shop, open since 1900. The nocciola and stracciatella are the classics; don't let them pile the cone with whipped cream unless you want the full theatrical version.",
+    "lat": 41.8997,
+    "lng": 12.4763,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 450,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "7:30-24:00"
+    },
+    "duration": {
+      "minutes": 20,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.3,
+    "tags": [
+      "food",
+      "budget",
+      "local-favorite",
+      "iconic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_012",
+    "name": "Mouth of Truth (Bocca della Verità)",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Ripa",
+    "description": "A first-century marble drain cover that Gregory Peck made famous in Roman Holiday. The queue is always long; the actual experience takes 30 seconds. Worth the photo if you're nearby, not worth a special trip.",
+    "lat": 41.8882,
+    "lng": 12.4816,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "tue": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "wed": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "thu": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "fri": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "sat": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "sun": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:30-17:30"
+    },
+    "duration": {
+      "minutes": 15,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 3.8,
+    "tags": [
+      "historic",
+      "tourist-heavy",
+      "photogenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_013",
+    "name": "Pigneto Neighborhood",
+    "type": "neighborhood",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Pigneto",
+    "description": "Rome's coolest neighborhood that tourists rarely reach — a working-class quarter that's become a hub for aperitivo bars, independent cinema, and young Roman life. Come Thursday or Friday evening.",
+    "lat": 41.8872,
+    "lng": 12.5342,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.4,
+    "tags": [
+      "local-favorite",
+      "evening",
+      "hidden-gem",
+      "food"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_014",
+    "name": "Aventine Keyhole",
+    "type": "viewpoint",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Aventino",
+    "description": "One of Rome's great secrets — peer through the keyhole of the Knights of Malta and you'll see St. Peter's dome perfectly framed by a garden archway. Free, takes 5 minutes, and almost no one knows about it.",
+    "lat": 41.8833,
+    "lng": 12.478,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "hidden-gem",
+      "scenic",
+      "photogenic",
+      "views",
+      "local-favorite"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_015",
+    "name": "Mercato Testaccio",
+    "type": "market",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Testaccio",
+    "description": "The best food market in Rome — a modern covered space where locals actually shop. The supplì (fried rice balls) from the stands in the back are legendary. Arrive hungry.",
+    "lat": 41.8793,
+    "lng": 12.4773,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "tue": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "wed": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "thu": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "fri": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "sat": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 7:00-14:00"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "market",
+      "food",
+      "local-favorite",
+      "morning",
+      "budget"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_016",
+    "name": "Palatine Hill",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Celio",
+    "description": "Often overlooked in favor of the Forum, but the Palatine has some of the best views in Rome and is far less crowded. The imperial palaces are fascinating ruins and the garden terraces are beautiful.",
+    "lat": 41.8893,
+    "lng": 12.4873,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.4,
+    "tags": [
+      "historic",
+      "scenic",
+      "views",
+      "cultural",
+      "morning"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_017",
+    "name": "Castel Sant'Angelo",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Borgo",
+    "description": "A former tomb, fortress, and prison — the rooftop terrace has arguably the best views of the Tiber and the city at golden hour. Most people walk over the bridge and don't go in; they're missing something.",
+    "lat": 41.9031,
+    "lng": 12.4663,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1170
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:30"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.5,
+    "tags": [
+      "historic",
+      "views",
+      "scenic",
+      "photogenic",
+      "cultural"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_018",
+    "name": "Trevi Fountain",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trevi",
+    "description": "Yes, it's a tourist magnet — it's also genuinely spectacular. Go at 6am and you'll often have it nearly to yourself. The recent ticket pilot has helped thin crowds during peak hours.",
+    "lat": 41.9009,
+    "lng": 12.4833,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 30,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "iconic",
+      "photogenic",
+      "tourist-heavy",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": "place_018",
+    "excludedReason": null
+  },
+  {
+    "id": "place_019",
+    "name": "Spanish Steps",
+    "type": "historic_site",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trevi",
+    "description": "Grand and photogenic but firmly in tourist-trap territory — the surrounding shops are luxury brands and prices on the nearby streets are inflated. Come for the view, not to linger.",
+    "lat": 41.9058,
+    "lng": 12.4823,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 20,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 3.9,
+    "tags": [
+      "iconic",
+      "tourist-heavy",
+      "photogenic",
+      "views"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_020",
+    "name": "Il Sorpasso",
+    "type": "restaurant",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Prati",
+    "description": "A Prati institution that does aperitivo, lunch, and dinner equally well — grab a spot outside, order the mezze platter and a glass of natural wine, and watch the neighborhood go by.",
+    "lat": 41.9051,
+    "lng": 12.4614,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ],
+        "tue": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ],
+        "wed": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ],
+        "thu": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ],
+        "fri": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ],
+        "sat": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ],
+        "sun": [
+          {
+            "open": 480,
+            "close": 1500
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "8:00-01:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.4,
+    "tags": [
+      "food",
+      "local-favorite",
+      "evening",
+      "relaxing"
+    ],
+    "booking": "unknown",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_021",
+    "name": "Appian Way Bike Ride",
+    "type": "experience",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": null,
+    "description": "Rent a bike and cycle the Via Appia Antica on a Sunday morning when the road is closed to cars — Roman aqueducts, ancient tombs, and countryside just 20 minutes from the city center. Genuinely surreal.",
+    "lat": 41.8547,
+    "lng": 12.5103,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 240,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "active",
+      "outdoors",
+      "historic",
+      "morning",
+      "local-favorite",
+      "scenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Best April-October. Road closed to cars on Sundays only."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_022",
+    "name": "Roscioli Salumeria",
+    "type": "restaurant",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Campo de' Fiori",
+    "description": "Half deli, half restaurant — you can eat at the bar surrounded by aging prosciutto and mountains of cheese, or book a table in the back room. The carbonara and the wine selection are both exceptional.",
+    "lat": 41.895,
+    "lng": 12.4742,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 750,
+            "close": 930
+          },
+          {
+            "open": 1170,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 750,
+            "close": 930
+          },
+          {
+            "open": 1170,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 750,
+            "close": 930
+          },
+          {
+            "open": 1170,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 930
+          },
+          {
+            "open": 1170,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 930
+          },
+          {
+            "open": 1170,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 930
+          },
+          {
+            "open": 1170,
+            "close": 1380
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 12:30-15:30, 19:30-23:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.7,
+    "tags": [
+      "food",
+      "wine",
+      "local-favorite",
+      "splurge"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_023",
+    "name": "Piazza del Popolo at Dawn",
+    "type": "viewpoint",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Flaminio",
+    "description": "Walk up to the Pincian terrace above Piazza del Popolo at sunrise and you'll have the whole city spread before you in golden light, almost completely alone. One of Rome's great free experiences.",
+    "lat": 41.9108,
+    "lng": 12.4764,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "views",
+      "scenic",
+      "photogenic",
+      "morning",
+      "hidden-gem",
+      "free"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": {
+      "earliest": 360,
+      "latest": 600
+    },
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_024",
+    "name": "Fontanella Borghese Book Market",
+    "type": "market",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Colonna",
+    "description": "A street-level antique book and print market that's been here for decades — stalls of old maps, vintage magazines, and prints of Rome you won't find anywhere else. A lovely slow wander.",
+    "lat": 41.9045,
+    "lng": 12.4763,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 9:00-19:00"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.1,
+    "tags": [
+      "market",
+      "local-favorite",
+      "morning",
+      "hidden-gem",
+      "cultural"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_025",
+    "name": "Hard Rock Cafe Rome",
+    "type": "restaurant",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trevi",
+    "description": "Why would you eat here. Rome has more extraordinary food per square kilometer than almost anywhere on earth and yet here we are.",
+    "lat": 41.902,
+    "lng": 12.4849,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 660,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "11:00-24:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 2.1,
+    "tags": [
+      "tourist-heavy"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": "Rated 2.1, below the 3 floor"
+  },
+  {
+    "id": "place_026",
+    "name": "Uffizi Gallery",
+    "type": "museum",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "Botticelli's Birth of Venus, da Vinci's Annunciation, and room after room of the Italian Renaissance — you need at least 3 hours and honestly could spend a whole day. Book weeks in advance in high season.",
+    "lat": 43.7687,
+    "lng": 11.2558,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "wed": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "thu": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "fri": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "sat": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "sun": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 8:15-18:50"
+    },
+    "duration": {
+      "minutes": 180,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "art",
+      "iconic",
+      "cultural",
+      "rainy-day",
+      "tourist-heavy"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "note": "Booking essential April-October."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_027",
+    "name": "Piazzale Michelangelo",
+    "type": "viewpoint",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "The classic panoramic view of Florence — every travel photo of the Duomo and Arno is taken from here. Crowded at sunset; try instead at 7am when the city glows and tour buses haven't arrived.",
+    "lat": 43.7629,
+    "lng": 11.265,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "views",
+      "scenic",
+      "photogenic",
+      "iconic",
+      "tourist-heavy",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_028",
+    "name": "Oltrarno Neighborhood",
+    "type": "neighborhood",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "The 'other side of the Arno' — artisan workshops, excellent wine bars, and a far less touristy feel than the north bank. This is where Florentines actually spend their evenings.",
+    "lat": 43.7644,
+    "lng": 11.2469,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 180,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "local-favorite",
+      "hidden-gem",
+      "evening",
+      "food",
+      "wine",
+      "cultural"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_029",
+    "name": "Buca Mario",
+    "type": "restaurant",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Santa Croce",
+    "description": "Florence's oldest restaurant — been feeding people since 1886 and still does the classic Florentine bistecca alla fiorentina the right way. Share the 1kg T-bone between two people and order the Chianti.",
+    "lat": 43.7706,
+    "lng": 11.2558,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "tue": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "sun": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "12:00-14:30, 19:00-22:30"
+    },
+    "duration": {
+      "minutes": 100,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.3,
+    "tags": [
+      "food",
+      "iconic",
+      "splurge",
+      "cultural",
+      "wine"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_030",
+    "name": "Mercato Centrale Firenze",
+    "type": "market",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "San Lorenzo",
+    "description": "Florence's main covered market — ground floor is a serious food market with butchers, fishmongers, and produce stalls that Florentines actually use. The upstairs food hall is tourist-oriented but decent.",
+    "lat": 43.7767,
+    "lng": 11.2535,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "tue": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "wed": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "thu": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "fri": [
+          {
+            "open": 420,
+            "close": 840
+          }
+        ],
+        "sat": [
+          {
+            "open": 420,
+            "close": 1020
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Fri 7:00-14:00, Sat 7:00-17:00"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.3,
+    "tags": [
+      "market",
+      "food",
+      "local-favorite",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": "place_030",
+    "excludedReason": null
+  },
+  {
+    "id": "place_031",
+    "name": "Mercato Centrale",
+    "type": "experience",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "San Lorenzo",
+    "description": "The upstairs food hall of the Mercato Centrale — multiple vendors serving everything from lampredotto to fresh pasta to craft beer. A good spot to graze and people-watch on a rainy afternoon.",
+    "lat": 43.7767,
+    "lng": 11.2535,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 600,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Daily 10:00-24:00"
+    },
+    "duration": {
+      "minutes": 75,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4,
+    "tags": [
+      "food",
+      "market",
+      "rainy-day",
+      "tourist-heavy"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": "place_030",
+    "excludedReason": null
+  },
+  {
+    "id": "place_032",
+    "name": "Accademia Gallery (Michelangelo's David)",
+    "type": "museum",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "San Marco",
+    "description": "Book before you come to Florence, not the day before — Michelangelo's David is astonishing in person in a way photographs don't prepare you for. The scale and detail stop people mid-step.",
+    "lat": 43.7766,
+    "lng": 11.2587,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "wed": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "thu": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "fri": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "sat": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "sun": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 8:15-18:50"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.9,
+    "tags": [
+      "art",
+      "iconic",
+      "cultural",
+      "tourist-heavy",
+      "rainy-day"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_033",
+    "name": "Buca dell'Orafo",
+    "type": "restaurant",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "An old-school trattoria tucked under an arch near the Ponte Vecchio — ribollita and pappardelle with wild boar in a setting that hasn't changed in 50 years. This is what Florentine cooking actually is.",
+    "lat": 43.7681,
+    "lng": 11.2527,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ],
+        "sun": [
+          {
+            "open": 720,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1350
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 12:00-14:30, 19:00-22:30"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.4,
+    "tags": [
+      "food",
+      "local-favorite",
+      "cultural",
+      "hidden-gem"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_034",
+    "name": "Boboli Gardens",
+    "type": "park",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "The Renaissance garden behind Palazzo Pitti — terraced, shaded, and enormous. A great escape from the city heat with fountains, statues, and views back over Florence from the upper terraces.",
+    "lat": 43.7628,
+    "lng": 11.2491,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ],
+        "tue": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ],
+        "wed": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ],
+        "thu": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ],
+        "fri": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ],
+        "sat": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ],
+        "sun": [
+          {
+            "open": 495,
+            "close": 990
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "8:15-16:30"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.4,
+    "tags": [
+      "outdoors",
+      "scenic",
+      "relaxing",
+      "views",
+      "historic",
+      "family-friendly"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Summer hours extend to 19:30. Can be brutally hot July-August."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_035",
+    "name": "Chianti Day Trip by Bike",
+    "type": "experience",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": null,
+    "description": "Take the train to Greve in Chianti and rent bikes to explore the vine-covered hills — castle ruins, olive groves, and the best young Chianti you can drink for almost nothing poured directly at the cantina. A perfect full day.",
+    "lat": 43.5833,
+    "lng": 11.3167,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 480,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "wine",
+      "outdoors",
+      "active",
+      "scenic",
+      "romantic",
+      "splurge"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Open April-October only. Best in September during harvest season."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_036",
+    "name": "Santa Croce Basilica",
+    "type": "historic_site",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Santa Croce",
+    "description": "The burial place of Michelangelo, Galileo, and Machiavelli — often called the 'Temple of Italian Glories.' The Bardi and Peruzzi chapels in the back have Giotto's greatest surviving frescoes.",
+    "lat": 43.7685,
+    "lng": 11.2622,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "tue": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "wed": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "thu": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "fri": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "sat": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "sun": [
+          {
+            "open": 840,
+            "close": 1050
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 9:30-17:30, Sun 14:00-17:30"
+    },
+    "duration": {
+      "minutes": 75,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "historic",
+      "art",
+      "cultural",
+      "iconic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_037",
+    "name": "Aperitivo at Rasputin",
+    "type": "cafe",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "A tiny, slightly ramshackle bar in Oltrarno that does the best free aperitivo spread in Florence — show up at 7pm with €8 and walk out having eaten dinner. A genuinely local institution.",
+    "lat": 43.7655,
+    "lng": 11.2458,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "inferred",
+      "raw": "Evenings"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "local-favorite",
+      "hidden-gem",
+      "evening",
+      "food",
+      "budget"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_038",
+    "name": "Siena Day Trip",
+    "type": "experience",
+    "city": "Siena",
+    "region": "Tuscany",
+    "neighborhood": null,
+    "description": "Florence to Siena is 90 minutes by bus — and Siena's medieval city center, the Piazza del Campo, and its cathedral are reason enough to go. Smaller, less crowded, and a different flavor of Tuscany entirely.",
+    "lat": 43.3186,
+    "lng": 11.3307,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 360,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "historic",
+      "scenic",
+      "cultural",
+      "outdoors",
+      "family-friendly"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_039",
+    "name": "Il Latini",
+    "type": "restaurant",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "San Giovanni",
+    "description": "A communal table trattoria where you sit with strangers and the food arrives until you stop it — crostini, ribollita, bistecca, cantucci with vin santo. Chaotic, loud, and exactly what a Florentine dinner should feel like.",
+    "lat": 43.7721,
+    "lng": 11.2497,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sun": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 12:30-14:30, 19:30-22:30"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.4,
+    "tags": [
+      "food",
+      "local-favorite",
+      "wine",
+      "lively",
+      "cultural"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_040",
+    "name": "San Miniato al Monte",
+    "type": "historic_site",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "Hike up past Piazzale Michelangelo to this 11th-century Romanesque church — few tourists make it this far and the views are even better. The mosaic facade glitters in afternoon sun.",
+    "lat": 43.7594,
+    "lng": 11.2644,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 480,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "8am-7pm"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "historic",
+      "views",
+      "hidden-gem",
+      "scenic",
+      "morning",
+      "cultural"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_041",
+    "name": "Osteria dell'Enoteca",
+    "type": "restaurant",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Gavinana",
+    "description": "Florence's best serious restaurant — creative Tuscan cooking with one of the deepest wine lists in the region. Not cheap, but for a special occasion dinner in Florence, nothing competes.",
+    "lat": 43.7583,
+    "lng": 11.2728,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "tue": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 1170,
+            "close": 1350
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 19:30-22:30"
+    },
+    "duration": {
+      "minutes": 150,
+      "assumed": false
+    },
+    "price": 4,
+    "rating": 4.8,
+    "tags": [
+      "food",
+      "wine",
+      "splurge",
+      "romantic",
+      "local-favorite"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_042",
+    "name": "Trattoria da Cesare al Casaletto",
+    "type": "restaurant",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": null,
+    "description": "A bit out from the center in a residential neighborhood — which is exactly why locals love it. The best suppli in Rome, and a cacio e pepe that the tourist spots can't come close to matching. Worth the taxi.",
+    "lat": 41.8733,
+    "lng": 12.421,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 780,
+            "close": 900
+          },
+          {
+            "open": 1200,
+            "close": 1350
+          }
+        ],
+        "wed": [
+          {
+            "open": 780,
+            "close": 900
+          },
+          {
+            "open": 1200,
+            "close": 1350
+          }
+        ],
+        "thu": [
+          {
+            "open": 780,
+            "close": 900
+          },
+          {
+            "open": 1200,
+            "close": 1350
+          }
+        ],
+        "fri": [
+          {
+            "open": 780,
+            "close": 900
+          },
+          {
+            "open": 1200,
+            "close": 1350
+          }
+        ],
+        "sat": [
+          {
+            "open": 780,
+            "close": 900
+          },
+          {
+            "open": 1200,
+            "close": 1350
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sat 13:00-15:00, 20:00-22:30"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "food",
+      "local-favorite",
+      "hidden-gem"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_043",
+    "name": "Osteria Francescana",
+    "type": "restaurant",
+    "city": "Modena",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "Massimo Bottura's three-Michelin-star restaurant and repeatedly the best in the world — a once-in-a-lifetime meal if you can get a reservation. Book 2+ months in advance and expect to spend €350+ per person.",
+    "lat": 44.6469,
+    "lng": 10.9264,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 750,
+            "close": 840
+          },
+          {
+            "open": 1200,
+            "close": 1320
+          }
+        ],
+        "wed": [
+          {
+            "open": 750,
+            "close": 840
+          },
+          {
+            "open": 1200,
+            "close": 1320
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 840
+          },
+          {
+            "open": 1200,
+            "close": 1320
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 840
+          },
+          {
+            "open": 1200,
+            "close": 1320
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 840
+          },
+          {
+            "open": 1200,
+            "close": 1320
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sat 12:30-14:00, 20:00-22:00"
+    },
+    "duration": {
+      "minutes": 240,
+      "assumed": false
+    },
+    "price": 4,
+    "rating": 5,
+    "tags": [
+      "food",
+      "splurge",
+      "iconic",
+      "romantic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_044",
+    "name": "Traditional Balsamic Vinegar Tasting, Modena",
+    "type": "experience",
+    "city": "Modena",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "Visit a small family producer — the Acetaia Malpighi or Acetaia Giusti are both excellent — to taste real Aceto Balsamico Tradizionale aged 12-25 years. What you buy in supermarkets is not this.",
+    "lat": 44.6469,
+    "lng": 10.9257,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "food",
+      "cultural",
+      "local-favorite",
+      "hidden-gem",
+      "experience"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_045",
+    "name": "Ferrari Museum, Maranello",
+    "type": "museum",
+    "city": "Maranello",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "15 minutes from Modena by bus — the Enzo Ferrari Museum is actually beautiful, not just a car museum. Even if you don't care about Formula 1, the design and the story are compelling. The test track laps are expensive but memorable.",
+    "lat": 44.5289,
+    "lng": 10.8653,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 570,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:30-18:00"
+    },
+    "duration": {
+      "minutes": 150,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.5,
+    "tags": [
+      "cultural",
+      "family-friendly",
+      "iconic",
+      "active"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_046",
+    "name": "Via Drapperie, Bologna",
+    "type": "market",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Quadrilatero",
+    "description": "The beating heart of Bologna's food culture — a medieval street packed with butchers, fishmongers, pasta makers, and deli counters stacked floor to ceiling with tortellini and mortadella. Come before noon and eat as you walk.",
+    "lat": 44.4944,
+    "lng": 11.344,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 480,
+            "close": 780
+          },
+          {
+            "open": 990,
+            "close": 1170
+          }
+        ],
+        "tue": [
+          {
+            "open": 480,
+            "close": 780
+          },
+          {
+            "open": 990,
+            "close": 1170
+          }
+        ],
+        "wed": [
+          {
+            "open": 480,
+            "close": 780
+          },
+          {
+            "open": 990,
+            "close": 1170
+          }
+        ],
+        "thu": [
+          {
+            "open": 480,
+            "close": 780
+          },
+          {
+            "open": 990,
+            "close": 1170
+          }
+        ],
+        "fri": [
+          {
+            "open": 480,
+            "close": 780
+          },
+          {
+            "open": 990,
+            "close": 1170
+          }
+        ],
+        "sat": [
+          {
+            "open": 480,
+            "close": 780
+          },
+          {
+            "open": 990,
+            "close": 1170
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 8:00-13:00, 16:30-19:30"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "market",
+      "food",
+      "local-favorite",
+      "morning",
+      "cultural",
+      "photogenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_047",
+    "name": "Tagliatelle al Ragù at Trattoria Anna Maria",
+    "type": "restaurant",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Irnerio",
+    "description": "This is the version of Bolognese that all the rest are trying and failing to replicate — slow-cooked, rich, served on fresh egg tagliatelle with nothing else. Anna Maria herself is often there. Book a week ahead minimum.",
+    "lat": 44.4992,
+    "lng": 11.3467,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1320
+          }
+        ],
+        "wed": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1320
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1320
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1320
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1170,
+            "close": 1320
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sat 12:30-14:30, 19:30-22:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.9,
+    "tags": [
+      "food",
+      "local-favorite",
+      "iconic",
+      "cultural"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_048",
+    "name": "Torre degli Asinelli Climb",
+    "type": "historic_site",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Piazza di Porta Ravegnana",
+    "description": "Bologna's leaning medieval tower — 498 steps to the top and a 360-degree view over the entire city and the Apennines. Worth every step. The 12th-century construction techniques that produced a 97-meter tower are still mystifying.",
+    "lat": 44.4942,
+    "lng": 11.3461,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-18:00"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "views",
+      "historic",
+      "active",
+      "scenic",
+      "photogenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_049",
+    "name": "University of Bologna Porticoes Walk",
+    "type": "experience",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "University Quarter",
+    "description": "Bologna has 40km of covered porticoes — a UNESCO World Heritage Site — and you can walk for hours without getting rained on. The route from Piazza Maggiore to San Luca Sanctuary is the classic, and spectacular.",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "outdoors",
+      "scenic",
+      "cultural",
+      "local-favorite",
+      "active"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_050",
+    "name": "Enoteca Italiana, Bologna",
+    "type": "restaurant",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Saragozza",
+    "description": "A wine bar with excellent charcuterie and the full breadth of Emilian food culture in small dishes — the best place in Bologna to graze and drink your way through the region's specialities.",
+    "lat": 44.489,
+    "lng": 11.3275,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 18:00-23:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.4,
+    "tags": [
+      "wine",
+      "food",
+      "evening",
+      "local-favorite",
+      "relaxing"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_051",
+    "name": "Pinacoteca Nazionale di Bologna",
+    "type": "museum",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Irnerio",
+    "description": "Criminally undervisited — the national art gallery contains one of the best collections of Bolognese and Venetian painting in Italy, often with barely a handful of other visitors. The Raphael and the Carracci altarpieces alone are worth it.",
+    "lat": 44.4981,
+    "lng": 11.351,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 9:00-19:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "art",
+      "cultural",
+      "rainy-day",
+      "hidden-gem",
+      "quiet"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_052",
+    "name": "Piazza Maggiore at Night",
+    "type": "viewpoint",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Centro Storico",
+    "description": "Bologna's main square — the 14th-century Basilica of San Petronio, the Neptune fountain, the grand Palazzo d'Accursio — and at night with students filling the piazza and cafes spilling out, it's magnetic.",
+    "lat": 44.4938,
+    "lng": 11.3427,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "scenic",
+      "photogenic",
+      "evening",
+      "historic",
+      "views"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": {
+      "earliest": 1200,
+      "latest": 1380
+    },
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_053",
+    "name": "Cheese and Prosciutto Tour, Parma",
+    "type": "experience",
+    "city": "Parma",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "Day trip from Bologna (35 min by train) to the home of Parmigiano-Reggiano and Prosciutto di Parma — guided tours of the actual production facilities are easy to arrange and utterly fascinating. Then eat at an osteria after.",
+    "lat": 44.8015,
+    "lng": 10.3279,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 480,
+            "close": 780
+          }
+        ],
+        "tue": [
+          {
+            "open": 480,
+            "close": 780
+          }
+        ],
+        "wed": [
+          {
+            "open": 480,
+            "close": 780
+          }
+        ],
+        "thu": [
+          {
+            "open": 480,
+            "close": 780
+          }
+        ],
+        "fri": [
+          {
+            "open": 480,
+            "close": 780
+          }
+        ],
+        "sat": [],
+        "sun": []
+      },
+      "confidence": "inferred",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 360,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "food",
+      "experience",
+      "cultural",
+      "local-favorite",
+      "outdoors"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Tours run weekday mornings only — plan ahead."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_054",
+    "name": "Gelato at La Sorbetteria Castiglione",
+    "type": "cafe",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": "Castiglione",
+    "description": "The best gelato in Bologna — frequently cited as among the best in Italy. The crema di formaggio is savory-sweet and unlike anything else. Queue is always there; it moves fast.",
+    "lat": 44.4891,
+    "lng": 11.3412,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "11:00-23:00"
+    },
+    "duration": {
+      "minutes": 20,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.8,
+    "tags": [
+      "food",
+      "local-favorite",
+      "budget"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_055",
+    "name": "Duomo di Milano",
+    "type": "historic_site",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Duomo",
+    "description": "600 years in the making — the most elaborate Gothic cathedral in the world and, from its rooftop terrace, one of the most dramatic views in all of Italy. Go at sunset when the marble turns orange.",
+    "lat": 45.4641,
+    "lng": 9.1919,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-18:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "iconic",
+      "historic",
+      "views",
+      "photogenic",
+      "tourist-heavy"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_056",
+    "name": "The Last Supper (Cenacolo Vinciano)",
+    "type": "museum",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Magenta",
+    "description": "Leonardo da Vinci's Last Supper in the refectory of Santa Maria delle Grazie — tickets sell out weeks in advance, access is strictly 15 minutes, and it is absolutely worth the effort. Smaller and more intimate than you imagine.",
+    "lat": 45.4658,
+    "lng": 9.1713,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 495,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 495,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 495,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 495,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 495,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 495,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 8:15-19:00"
+    },
+    "duration": {
+      "minutes": 30,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.9,
+    "tags": [
+      "art",
+      "iconic",
+      "cultural",
+      "historic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Tickets frequently sell out 2 months in advance."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_057",
+    "name": "Navigli Canals at Aperitivo Hour",
+    "type": "neighborhood",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Navigli",
+    "description": "Milan's canal district — the aperitivo culture here is world-class, and on warm evenings the canal-side bars are genuinely magical. Order a Campari Spritz, let the free food happen, and don't rush.",
+    "lat": 45.4538,
+    "lng": 9.173,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "evening",
+      "local-favorite",
+      "scenic",
+      "food",
+      "romantic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Best May-September when canal-side seating is open."
+    },
+    "startWindow": {
+      "earliest": 1080,
+      "latest": 1200
+    },
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_058",
+    "name": "Pinacoteca di Brera",
+    "type": "museum",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Brera",
+    "description": "Milan's main art museum in a beautiful 17th-century palazzo — Caravaggio, Raphael, Bellini, and the most intimate collection of northern Italian Renaissance painting anywhere. The Brera neighborhood around it is lovely for a wander before or after.",
+    "lat": 45.4718,
+    "lng": 9.1883,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 510,
+            "close": 1155
+          }
+        ],
+        "wed": [
+          {
+            "open": 510,
+            "close": 1155
+          }
+        ],
+        "thu": [
+          {
+            "open": 510,
+            "close": 1155
+          }
+        ],
+        "fri": [
+          {
+            "open": 510,
+            "close": 1155
+          }
+        ],
+        "sat": [
+          {
+            "open": 510,
+            "close": 1155
+          }
+        ],
+        "sun": [
+          {
+            "open": 510,
+            "close": 1155
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 8:30-19:15"
+    },
+    "duration": {
+      "minutes": 150,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "art",
+      "cultural",
+      "rainy-day",
+      "quiet"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_059",
+    "name": "Brera Antique Market",
+    "type": "market",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Brera",
+    "description": "Third Saturday and Sunday of every month — the streets around the Pinacoteca di Brera fill with antique and vintage stalls. A great window into Milan beyond the fashion district.",
+    "lat": 45.4718,
+    "lng": 9.1883,
+    "locationApproximate": true,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Sat-Sun 9:00-19:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.2,
+    "tags": [
+      "market",
+      "local-favorite",
+      "morning",
+      "hidden-gem"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": true,
+      "bookingMonths": null,
+      "note": "Third weekend of each month only."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_060",
+    "name": "Galleria Vittorio Emanuele II",
+    "type": "historic_site",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Duomo",
+    "description": "Italy's oldest and most beautiful shopping mall — a 19th-century iron-and-glass arcade connecting the Duomo to La Scala. Even if you're not buying, come for the architecture and the absurdly expensive Campari at the historic Camparino bar.",
+    "lat": 45.466,
+    "lng": 9.1899,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.6,
+    "tags": [
+      "iconic",
+      "historic",
+      "photogenic",
+      "shop",
+      "scenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_061",
+    "name": "Risotto alla Milanese at Trattoria Milanese",
+    "type": "restaurant",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Duomo",
+    "description": "A proper old-school trattoria steps from the Duomo that hasn't changed in decades — the saffron risotto is canonical, the osso buco is legendary, and the bill is honest. Reserve for dinner.",
+    "lat": 45.4638,
+    "lng": 9.1854,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 720,
+            "close": 900
+          },
+          {
+            "open": 1140,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 720,
+            "close": 900
+          },
+          {
+            "open": 1140,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 720,
+            "close": 900
+          },
+          {
+            "open": 1140,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 720,
+            "close": 900
+          },
+          {
+            "open": 1140,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 720,
+            "close": 900
+          },
+          {
+            "open": 1140,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 720,
+            "close": 900
+          },
+          {
+            "open": 1140,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 12:00-15:00, 19:00-23:00"
+    },
+    "duration": {
+      "minutes": 100,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.5,
+    "tags": [
+      "food",
+      "local-favorite",
+      "cultural",
+      "iconic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_062",
+    "name": "Fondazione Prada",
+    "type": "museum",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Lodi",
+    "description": "Milan's most interesting contemporary art venue — housed in a distillery complex, with a gold-leafed 'haunted house' tower that functions as its own art installation. Designed by Rem Koolhaas and genuinely exciting.",
+    "lat": 45.4443,
+    "lng": 9.2024,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 1140
+          }
+        ],
+        "tue": [],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 600,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Wed-Mon 10:00-19:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "art",
+      "cultural",
+      "rainy-day",
+      "modern"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_063",
+    "name": "Bellagio, Lake Como",
+    "type": "experience",
+    "city": "Bellagio",
+    "region": "Lombardy",
+    "neighborhood": null,
+    "description": "The jewel of Lake Como — terraced gardens, silk shops, lake-view restaurants, and a ferry crossing that gives you one of the most beautiful panoramas in Europe. The ferry from Como takes 2 hours; the hydrofoil is 45 minutes.",
+    "lat": 45.9854,
+    "lng": 9.2593,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 360,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.8,
+    "tags": [
+      "scenic",
+      "romantic",
+      "photogenic",
+      "outdoors",
+      "views"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Open April-October only. Summer weekends extremely crowded."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_064",
+    "name": "Villa del Balbianello, Lake Como",
+    "type": "historic_site",
+    "city": "Lenno",
+    "region": "Lombardy",
+    "neighborhood": null,
+    "description": "A 18th-century villa on a dramatic promontory above Lake Como — the gardens are among the most beautiful in Italy and the view has appeared in Casino Royale and Star Wars. Only reachable by boat or a steep hike.",
+    "lat": 45.9611,
+    "lng": 9.1633,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "wed": [],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues, Thurs-Sun 10:00-18:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.9,
+    "tags": [
+      "scenic",
+      "romantic",
+      "historic",
+      "photogenic",
+      "outdoors",
+      "views"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Open April-October only."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_065",
+    "name": "Aperitivo at Ceresio 7",
+    "type": "cafe",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Isola",
+    "description": "A rooftop pool bar on a design-district building — aperitivo at sunset with the entire Milan skyline is one of the most stylish hours you can spend in Italy. Dress the part; the crowd is fashion-adjacent.",
+    "lat": 45.4769,
+    "lng": 9.1782,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          {
+            "open": 750,
+            "close": 1410
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 1410
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 1410
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 1410
+          }
+        ],
+        "sun": [
+          {
+            "open": 750,
+            "close": 1410
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Wed-Sun 12:30-23:30"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.5,
+    "tags": [
+      "views",
+      "evening",
+      "splurge",
+      "scenic",
+      "photogenic",
+      "romantic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Rooftop open May-September only."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_066",
+    "name": "Rialto Bridge",
+    "type": "historic_site",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Polo",
+    "description": "Venice's most famous bridge — a 16th-century marble arch over the Grand Canal that's still functioning and still stunning. Go at 7am to have it almost to yourself; by 10am it's a wall of selfie sticks.",
+    "lat": 45.438,
+    "lng": 12.3359,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "iconic",
+      "photogenic",
+      "tourist-heavy",
+      "morning",
+      "views",
+      "historic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_067",
+    "name": "Doge's Palace",
+    "type": "museum",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Marco",
+    "description": "Venice's greatest Gothic building and former seat of power — the palace interior is extraordinary, the Bridge of Sighs is genuinely affecting, and the view from the loggia across the lagoon is one of the best in Europe.",
+    "lat": 45.4338,
+    "lng": 12.3411,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:00"
+    },
+    "duration": {
+      "minutes": 150,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "historic",
+      "art",
+      "cultural",
+      "iconic",
+      "tourist-heavy"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_068",
+    "name": "Cicchetti Bar Crawl, Cannaregio",
+    "type": "experience",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "Cannaregio",
+    "description": "The traditional way Venetians eat — moving from bar to bar (bacaro) eating small snacks (cicchetti) with glasses of prosecco or spritz. Cannaregio is the most authentic neighborhood for it, away from the San Marco crowds.",
+    "lat": 45.4467,
+    "lng": 12.3267,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "inferred",
+      "raw": "Evenings"
+    },
+    "duration": {
+      "minutes": 180,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.8,
+    "tags": [
+      "food",
+      "wine",
+      "local-favorite",
+      "evening",
+      "cultural",
+      "hidden-gem"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_069",
+    "name": "Peggy Guggenheim Collection",
+    "type": "museum",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "Dorsoduro",
+    "description": "The best modern art museum in Italy — Peggy Guggenheim's personal collection in her palazzo on the Grand Canal, with Picasso, Dalí, Pollock, and a legendary terrace. The most manageable great museum in Venice.",
+    "lat": 45.431,
+    "lng": 12.3317,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "tue": [],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Wed-Mon 10:00-18:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "art",
+      "cultural",
+      "rainy-day",
+      "views",
+      "iconic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_070",
+    "name": "Burano Island Trip",
+    "type": "experience",
+    "city": "Burano",
+    "region": "Veneto",
+    "neighborhood": null,
+    "description": "Take the vaporetto 45 minutes into the lagoon to the island of brightly painted houses — one of the most photogenic places in Italy, genuinely quiet on weekday mornings, and worth it for the seafood lunch alone.",
+    "lat": 45.4852,
+    "lng": 12.4175,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 300,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "photogenic",
+      "scenic",
+      "outdoors",
+      "local-favorite",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_071",
+    "name": "Gondola on a Back Canal",
+    "type": "experience",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": null,
+    "description": "The official gondola rides are expensive and heavily trafficked on the Grand Canal — but if you book one that starts in a back canal through Cannaregio or Dorsoduro, you get the Venice that existed before mass tourism. Split the cost four ways.",
+    "lat": 45.4408,
+    "lng": 12.3155,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.4,
+    "tags": [
+      "romantic",
+      "scenic",
+      "iconic",
+      "splurge",
+      "photogenic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_072",
+    "name": "Dorsoduro Neighborhood",
+    "type": "neighborhood",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "Dorsoduro",
+    "description": "Venice's most livable neighborhood — the Ca' Rezzonico, the Zattere promenade, the Accademia, and a series of campo squares where students and locals outnumber tourists. Especially lovely at dusk.",
+    "lat": 45.4324,
+    "lng": 12.3259,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 180,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "local-favorite",
+      "relaxing",
+      "scenic",
+      "art",
+      "evening"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_073",
+    "name": "Spaghetti alle Vongole at Osteria da Rioba",
+    "type": "restaurant",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "Cannaregio",
+    "description": "A canal-side osteria in Cannaregio that does the best vongole in Venice — fresh clams, white wine, parsley, and olive oil. The whole fish is also extraordinary. Book a canal table.",
+    "lat": 45.4475,
+    "lng": 12.3239,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        "wed": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        "thu": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        "fri": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        "sat": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        "sun": [
+          {
+            "open": 750,
+            "close": 870
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 12:30-14:30, 19:00-22:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.6,
+    "tags": [
+      "food",
+      "romantic",
+      "local-favorite",
+      "scenic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_074",
+    "name": "St. Mark's Basilica",
+    "type": "historic_site",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Marco",
+    "description": "A Byzantine cathedral covered in over 8,000 square meters of gold mosaics — genuinely one of the most extraordinary interiors in Europe. Pre-book to skip the queue; the upstairs gallery with floor-level views of the mosaics is worth the extra ticket.",
+    "lat": 45.4345,
+    "lng": 12.3397,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 570,
+            "close": 1035
+          }
+        ],
+        "tue": [
+          {
+            "open": 570,
+            "close": 1035
+          }
+        ],
+        "wed": [
+          {
+            "open": 570,
+            "close": 1035
+          }
+        ],
+        "thu": [
+          {
+            "open": 570,
+            "close": 1035
+          }
+        ],
+        "fri": [
+          {
+            "open": 570,
+            "close": 1035
+          }
+        ],
+        "sat": [
+          {
+            "open": 570,
+            "close": 1035
+          }
+        ],
+        "sun": [
+          {
+            "open": 840,
+            "close": 1020
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 9:30-17:15, Sun 14:00-17:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.8,
+    "tags": [
+      "iconic",
+      "historic",
+      "art",
+      "cultural",
+      "tourist-heavy"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_075",
+    "name": "Early Morning in Cannaregio",
+    "type": "experience",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "Cannaregio",
+    "description": "Before 8am, Venice belongs to its residents — delivery boats, market vendors setting up, locals walking to work. Cannaregio is the largest residential neighborhood and the best place to experience this other Venice.",
+    "lat": 45.4454,
+    "lng": 12.3289,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "local-favorite",
+      "quiet",
+      "morning",
+      "photogenic",
+      "hidden-gem"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": {
+      "earliest": 360,
+      "latest": 600
+    },
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_076",
+    "name": "Osteria Alla Staffa",
+    "type": "restaurant",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Marco",
+    "description": "A tiny osteria hiding behind the tourist restaurants near San Marco — no English menu, no tourist pricing, just honest cicchetti and a rotating selection of local wine. Finding it is half the fun.",
+    "lat": 45.4353,
+    "lng": 12.3378,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 660,
+            "close": 1260
+          }
+        ],
+        "tue": [
+          {
+            "open": 660,
+            "close": 1260
+          }
+        ],
+        "wed": [
+          {
+            "open": 660,
+            "close": 1260
+          }
+        ],
+        "thu": [
+          {
+            "open": 660,
+            "close": 1260
+          }
+        ],
+        "fri": [
+          {
+            "open": 660,
+            "close": 1260
+          }
+        ],
+        "sat": [
+          {
+            "open": 660,
+            "close": 1260
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 11:00-21:00"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "food",
+      "local-favorite",
+      "budget",
+      "hidden-gem"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_077",
+    "name": "Trevi Fountain by Night",
+    "type": "viewpoint",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Trevi",
+    "description": "The fountain lit at night is a completely different experience from the daytime chaos — walk here after a late dinner when the tourist buses have gone and the marble glows. Bring a coin.",
+    "lat": 41.9009,
+    "lng": 12.4833,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "romantic",
+      "evening",
+      "scenic",
+      "iconic",
+      "photogenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": {
+      "earliest": 1200,
+      "latest": 1380
+    },
+    "siteGroup": "place_018",
+    "excludedReason": null
+  },
+  {
+    "id": "place_078",
+    "name": "Enoteca al Volto, Venice",
+    "type": "cafe",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Marco",
+    "description": "Venice's oldest wine bar, open since 1936 — over 1,300 wines, excellent cicchetti, and a dark wood interior that hasn't changed in decades. Come for the late morning glass of local white.",
+    "lat": 45.4369,
+    "lng": 12.3339,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 1200
+          }
+        ],
+        "tue": [
+          {
+            "open": 600,
+            "close": 1200
+          }
+        ],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1200
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1200
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1200
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1200
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 10:00-20:00"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "wine",
+      "local-favorite",
+      "historic",
+      "quiet"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_079",
+    "name": "Prosciutto e Melone at Cremeria Mascareta",
+    "type": "cafe",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "Castello",
+    "description": "A tiny late-night wine bar run by a passionate sommelier who will change what you think about wine-pairing — order the cheese plate, tell him a flavor you like, and let him pour. Open until 2am.",
+    "lat": 45.4371,
+    "lng": 12.352,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "inferred",
+      "raw": "Evenings"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "wine",
+      "local-favorite",
+      "evening",
+      "hidden-gem",
+      "food"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_080",
+    "name": "Borghese Park (Villa Borghese)",
+    "type": "park",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Parioli",
+    "description": "Rome's most beautiful park — 80 hectares of gardens, lakes, and tree-lined paths connecting the Borghese Gallery to views over the city. Rent a rowboat on the lake or just wander.",
+    "lat": 41.9135,
+    "lng": 12.4924,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ],
+        "tue": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ],
+        "wed": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ],
+        "thu": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ],
+        "fri": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ],
+        "sat": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ],
+        "sun": [
+          {
+            "open": 420,
+            "close": 1260
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "outdoors",
+      "relaxing",
+      "scenic",
+      "family-friendly",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_081",
+    "name": "Pitti Palace",
+    "type": "museum",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "The Medici's home — a Renaissance palace containing multiple museums, most of which are visited by only a fraction of the people who walk through. The Royal Apartments and the Palatine Gallery are opulent beyond description.",
+    "lat": 43.7651,
+    "lng": 11.2495,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "wed": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "thu": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "fri": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "sat": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ],
+        "sun": [
+          {
+            "open": 495,
+            "close": 1130
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 8:15-18:50"
+    },
+    "duration": {
+      "minutes": 150,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.5,
+    "tags": [
+      "art",
+      "historic",
+      "cultural",
+      "rainy-day"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_082",
+    "name": "Rossopomodoro, Milan",
+    "type": "restaurant",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Brera",
+    "description": "A reliable Neapolitan pizza chain that does the basics correctly — proper wood-fired pizza in a city that isn't traditionally a pizza town. Good for a quick, honest, affordable meal between museums.",
+    "lat": 45.4717,
+    "lng": 9.1893,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 720,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "12:00-23:00"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 3.9,
+    "tags": [
+      "food",
+      "budget",
+      "family-friendly"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_083",
+    "name": "Acetaia Giusti, Modena",
+    "type": "experience",
+    "city": "Modena",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "The oldest balsamic vinegar producer in the world, established 1605 — their acetaia above the restaurant lets you see the barrels aging and taste the progression from 12 to 25 years. The restaurant downstairs is also excellent.",
+    "lat": 44.6451,
+    "lng": 10.9297,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1080
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 10:00-18:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.8,
+    "tags": [
+      "food",
+      "cultural",
+      "local-favorite",
+      "experience"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_084",
+    "name": "Ponte Vecchio",
+    "type": "historic_site",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Oltrarno",
+    "description": "The only Florentine bridge that survived WWII — lined with jewelers on a structure built in 1345. The view from the Arno banks is better than the view on it. Cross it, then watch it from the adjacent Ponte Santa Trinità.",
+    "lat": 43.768,
+    "lng": 11.2531,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 30,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "iconic",
+      "historic",
+      "photogenic",
+      "tourist-heavy"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_085",
+    "name": "Como Town Lakefront",
+    "type": "viewpoint",
+    "city": "Como",
+    "region": "Lombardy",
+    "neighborhood": null,
+    "description": "The town of Como itself — often overlooked in favor of Bellagio — has a medieval center, a beautiful cathedral, and a lakefront promenade that's utterly lovely on a quiet morning. Easier to reach from Milan (45 min by train).",
+    "lat": 45.8085,
+    "lng": 9.0852,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.4,
+    "tags": [
+      "scenic",
+      "views",
+      "relaxing",
+      "morning",
+      "outdoors"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Open April-October only."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_086",
+    "name": "Museo del Novecento, Milan",
+    "type": "museum",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Duomo",
+    "description": "A beautiful museum of 20th-century Italian art overlooking the Piazza del Duomo — the Boccioni sculpture room is extraordinary and a circular ramp winds through the whole collection. Often uncrowded even when the Duomo is packed.",
+    "lat": 45.464,
+    "lng": 9.1892,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [],
+        "tue": [
+          {
+            "open": 600,
+            "close": 1170
+          }
+        ],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1170
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1170
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1170
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1170
+          }
+        ],
+        "sun": [
+          {
+            "open": 600,
+            "close": 1170
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Tues-Sun 10:00-19:30"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.4,
+    "tags": [
+      "art",
+      "cultural",
+      "rainy-day",
+      "quiet",
+      "modern"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_087",
+    "name": "Flavors of Bologna Cooking Class",
+    "type": "experience",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "A 3-hour morning cooking class in a home kitchen — learn to make fresh tagliatelle, tortellini, and tiramisu from a local nonna. Booking a small-group class (not a big tourist operation) makes all the difference.",
+    "lat": 44.4992,
+    "lng": 11.3424,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 750
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9am-12:30pm"
+    },
+    "duration": {
+      "minutes": 210,
+      "assumed": false
+    },
+    "price": 3,
+    "rating": 4.9,
+    "tags": [
+      "experience",
+      "food",
+      "cultural",
+      "local-favorite"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_088",
+    "name": "San Giorgio Maggiore Campanile",
+    "type": "viewpoint",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Giorgio Maggiore",
+    "description": "The lesser-known alternative to the San Marco bell tower — take the 5-minute vaporetto from the Riva degli Schiavoni and ride the lift to the top for the best view of the entire Venice lagoon. Half the crowds, same view.",
+    "lat": 45.4292,
+    "lng": 12.3434,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "tue": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "wed": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "thu": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "fri": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "sat": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ],
+        "sun": [
+          {
+            "open": 570,
+            "close": 1050
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:30-17:30"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.8,
+    "tags": [
+      "views",
+      "scenic",
+      "photogenic",
+      "hidden-gem",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_089",
+    "name": "Pienza Village Day Trip",
+    "type": "experience",
+    "city": "Pienza",
+    "region": "Tuscany",
+    "neighborhood": null,
+    "description": "A tiny Renaissance hill town 90 minutes from Florence or Siena — the entire town center is a UNESCO site, the Pecorino cheese from the valley below is exceptional, and the view over the Val d'Orcia on a clear day is the most Tuscan thing that exists.",
+    "lat": 43.0778,
+    "lng": 11.6793,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 360,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "scenic",
+      "historic",
+      "outdoors",
+      "views",
+      "local-favorite",
+      "romantic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_090",
+    "name": "Isola della Scala Risotto Festival",
+    "type": "experience",
+    "city": "Isola della Scala",
+    "region": "Veneto",
+    "neighborhood": null,
+    "description": "30 minutes from Verona — if you're in the Veneto in October, this is the annual risotto festival in the heart of Vialone Nano rice country. Hundreds of vendors, chefs competing, and the best risotto all'Amarone you'll ever eat.",
+    "lat": 45.2661,
+    "lng": 11.0008,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1080
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 300,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "food",
+      "local-favorite",
+      "seasonal",
+      "cultural",
+      "experience"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": [
+        10
+      ],
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "October only — check exact festival dates before planning."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_091",
+    "name": "Caffè Florian, Venice",
+    "type": "cafe",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Marco",
+    "description": "Open since 1720, Europe's oldest cafe — a Campari at the outside tables with a string quartet playing as the pigeons swirl over Piazza San Marco costs €25 and is worth every cent as a pure experience. Don't come for the coffee quality.",
+    "lat": 45.4341,
+    "lng": 12.339,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "10:00-23:00"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 4,
+    "rating": 4.3,
+    "tags": [
+      "iconic",
+      "historic",
+      "splurge",
+      "scenic",
+      "experience"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_092",
+    "name": "Prosciutto di Parma at Cantina di Parma",
+    "type": "restaurant",
+    "city": "Parma",
+    "region": "Emilia-Romagna",
+    "neighborhood": null,
+    "description": "A traditional cantina in Parma that serves nothing but local products — thin-sliced Culatello, aged Parmigiano-Reggiano, porcini mushrooms in oil, and house Lambrusco. Exactly what this part of Italy tastes like.",
+    "lat": 44.8023,
+    "lng": 10.3274,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 720,
+            "close": 870
+          }
+        ],
+        "tue": [
+          {
+            "open": 720,
+            "close": 870
+          }
+        ],
+        "wed": [
+          {
+            "open": 720,
+            "close": 870
+          }
+        ],
+        "thu": [
+          {
+            "open": 720,
+            "close": 870
+          }
+        ],
+        "fri": [
+          {
+            "open": 720,
+            "close": 870
+          }
+        ],
+        "sat": [
+          {
+            "open": 720,
+            "close": 870
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 12:00-14:30"
+    },
+    "duration": {
+      "minutes": 75,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.6,
+    "tags": [
+      "food",
+      "local-favorite",
+      "cultural",
+      "wine"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_093",
+    "name": "Piazza del Duomo, Florence (Exterior)",
+    "type": "viewpoint",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "San Giovanni",
+    "description": "Stand in the piazza and look up at Brunelleschi's dome — even if you don't go inside, just being here and understanding that someone built this in 1436 without power tools is staggering. The marble facade of the Baptistery is also extraordinary.",
+    "lat": 43.7731,
+    "lng": 11.2561,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.8,
+    "tags": [
+      "iconic",
+      "historic",
+      "photogenic",
+      "scenic",
+      "free"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_094",
+    "name": "Roof Garden at the Rinascente, Milan",
+    "type": "viewpoint",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Duomo",
+    "description": "Take the escalators to the top floor of the La Rinascente department store — there's a rooftop bar and food hall with direct views of the Duomo's flying buttresses and spires at eye level. An absurdly good hidden perspective on a famous monument.",
+    "lat": 45.4654,
+    "lng": 9.1898,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1260
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-21:00"
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.5,
+    "tags": [
+      "views",
+      "hidden-gem",
+      "scenic",
+      "photogenic"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_095",
+    "name": "Orto Botanico di Padova",
+    "type": "park",
+    "city": "Padua",
+    "region": "Veneto",
+    "neighborhood": null,
+    "description": "The world's oldest university botanical garden (1545), 30 minutes from Venice by train — a UNESCO site that's genuinely beautiful and utterly peaceful. If you're at all curious about the history of science, this is remarkable.",
+    "lat": 45.3994,
+    "lng": 11.8809,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1140
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-19:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.5,
+    "tags": [
+      "outdoors",
+      "quiet",
+      "cultural",
+      "historic",
+      "morning"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": "Best April-October."
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_096",
+    "name": "Al Quadri, Venice",
+    "type": "restaurant",
+    "city": "Venice",
+    "region": "Veneto",
+    "neighborhood": "San Marco",
+    "description": "The other historic cafe on Piazza San Marco — Alajmo's two-Michelin-star kitchen upstairs is extraordinary, but even a glass of wine at the downstairs cafe is a way to access the piazza without paying Florian prices. The orchestra plays on.",
+    "lat": 45.4341,
+    "lng": 12.3394,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "Daily 9:00-23:00"
+    },
+    "duration": {
+      "minutes": 120,
+      "assumed": false
+    },
+    "price": 4,
+    "rating": 4.5,
+    "tags": [
+      "iconic",
+      "splurge",
+      "food",
+      "historic",
+      "scenic"
+    ],
+    "booking": "required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_097",
+    "name": "Passeggiata del Gianicolo, Rome",
+    "type": "viewpoint",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Gianicolo",
+    "description": "A long promenade along the Janiculum hill — arguably the best panoramic views over Rome, and quiet enough that you can hear a noon cannon fired every day. Walk here from Trastevere uphill through the botanical gardens.",
+    "lat": 41.8939,
+    "lng": 12.4634,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 45,
+      "assumed": true
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "views",
+      "scenic",
+      "quiet",
+      "morning",
+      "outdoors",
+      "local-favorite"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_098",
+    "name": "Basilica di Sant'Ambrogio, Milan",
+    "type": "historic_site",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Sant'Ambrogio",
+    "description": "Milan's oldest church — a 4th-century Romanesque basilica that makes the Gothic Duomo seem modern. Quiet, extraordinary, and full of early Christian mosaics and Lombard gold. Almost never crowded.",
+    "lat": 45.4603,
+    "lng": 9.1741,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 600,
+            "close": 720
+          },
+          {
+            "open": 870,
+            "close": 1080
+          }
+        ],
+        "tue": [
+          {
+            "open": 600,
+            "close": 720
+          },
+          {
+            "open": 870,
+            "close": 1080
+          }
+        ],
+        "wed": [
+          {
+            "open": 600,
+            "close": 720
+          },
+          {
+            "open": 870,
+            "close": 1080
+          }
+        ],
+        "thu": [
+          {
+            "open": 600,
+            "close": 720
+          },
+          {
+            "open": 870,
+            "close": 1080
+          }
+        ],
+        "fri": [
+          {
+            "open": 600,
+            "close": 720
+          },
+          {
+            "open": 870,
+            "close": 1080
+          }
+        ],
+        "sat": [
+          {
+            "open": 600,
+            "close": 720
+          },
+          {
+            "open": 870,
+            "close": 1080
+          }
+        ],
+        "sun": []
+      },
+      "confidence": "listed",
+      "raw": "Mon-Sat 10:00-12:00, 14:30-18:00"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.6,
+    "tags": [
+      "historic",
+      "cultural",
+      "quiet",
+      "hidden-gem",
+      "art"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_099",
+    "name": "Eataly Roma Ostiense",
+    "type": "shop",
+    "city": "Rome",
+    "region": "Lazio",
+    "neighborhood": "Ostiense",
+    "description": "The Rome flagship of the Italian food superstore — useful for stocking up on high-quality olive oil, pasta, and wine to take home, or grazing through the food stalls. Not a substitute for the real markets, but a solid last-day option.",
+    "lat": 41.8718,
+    "lng": 12.4785,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-24:00"
+    },
+    "duration": {
+      "minutes": 60,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.1,
+    "tags": [
+      "food",
+      "shop",
+      "market"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_100",
+    "name": "Aperitivo Culture Walk, Milan",
+    "type": "experience",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Isola",
+    "description": "The Isola and Porta Ticinese neighborhoods have Milan's best independent aperitivo bar scene — start at one end of Corso Como and work your way south through Navigli over 3 hours. Order the Negroni, eat everything, repeat.",
+    "lat": 45.4791,
+    "lng": 9.1875,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "inferred",
+      "raw": "Evenings"
+    },
+    "duration": {
+      "minutes": 180,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.7,
+    "tags": [
+      "local-favorite",
+      "evening",
+      "food",
+      "wine",
+      "cultural",
+      "active"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_101",
+    "name": "Museo Nazionale del Bargello, Florence",
+    "type": "museum",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Santa Croce",
+    "description": "A sculpture museum in a 13th-century prison that contains Donatello's David (the bronze one, before Michelangelo's marble version) and some of the greatest Renaissance bronzes anywhere. Serious art lovers often say this is the best museum in Florence.",
+    "lat": 43.77,
+    "lng": 11.2569,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ],
+        "tue": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ],
+        "wed": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ],
+        "thu": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ],
+        "fri": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ],
+        "sat": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ],
+        "sun": [
+          {
+            "open": 495,
+            "close": 830
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "8:15-13:50"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 1,
+    "rating": 4.7,
+    "tags": [
+      "art",
+      "historic",
+      "cultural",
+      "quiet",
+      "rainy-day",
+      "hidden-gem"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_102",
+    "name": "Quadrilatero della Moda, Milan",
+    "type": "neighborhood",
+    "city": "Milan",
+    "region": "Lombardy",
+    "neighborhood": "Quadrilatero della Moda",
+    "description": "The fashion district — Via Montenapoleone, Via della Spiga, and the surrounding streets are where every major luxury house has its flagship. Even if you're not buying, the windows are worth it and the architecture is stunning.",
+    "lat": 45.4695,
+    "lng": 9.1991,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "tue": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "wed": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "thu": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "fri": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sat": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ],
+        "sun": [
+          {
+            "open": 0,
+            "close": 1440
+          }
+        ]
+      },
+      "confidence": "assumed",
+      "raw": null
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 4,
+    "rating": 4.3,
+    "tags": [
+      "shop",
+      "scenic",
+      "iconic",
+      "splurge"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  },
+  {
+    "id": "place_103",
+    "name": "Palazzo Vecchio",
+    "type": "museum",
+    "city": "Florence",
+    "region": "Tuscany",
+    "neighborhood": "Piazza della Signoria",
+    "description": "Florence's town hall for 700 years — climb the tower for the best view in the city (better than Piazzale Michelangelo) and explore the extraordinary frescoed halls inside. Often overlooked in favor of the Uffizi next door.",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "locationApproximate": false,
+    "hours": {
+      "weekly": {
+        "mon": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "tue": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "wed": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "thu": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "fri": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "sat": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ],
+        "sun": [
+          {
+            "open": 540,
+            "close": 1380
+          }
+        ]
+      },
+      "confidence": "listed",
+      "raw": "9:00-23:00"
+    },
+    "duration": {
+      "minutes": 90,
+      "assumed": false
+    },
+    "price": 2,
+    "rating": 4.5,
+    "tags": [
+      "historic",
+      "views",
+      "art",
+      "cultural",
+      "hidden-gem"
+    ],
+    "booking": "not-required",
+    "seasonal": {
+      "openMonths": null,
+      "bestMonths": null,
+      "thirdWeekendOnly": false,
+      "bookingMonths": null,
+      "note": null
+    },
+    "startWindow": null,
+    "siteGroup": null,
+    "excludedReason": null
+  }
+]
